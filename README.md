@@ -217,4 +217,4 @@ This is a personal project, but suggestions are welcome!
 
 ---
 
-> Built with ❤️ and two Arduinos
+> Built by 4 with ❤️ and two Arduinos
